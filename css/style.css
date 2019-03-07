@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(252, 219, 250);
+  font-family: helvetica,sans-serif;
+}
+div {
+  min-height: 100vh;
+  width: 100vw;
+}
+h1, h2 {
+         text-align: center;
+}
+h1 {
+  font-size: 5em;
+}
